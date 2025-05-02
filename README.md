@@ -10,11 +10,7 @@
 
 ###
 
-<img align="right" height="160" src="https://i.imgflip.com/96qeee.png"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -34,7 +30,15 @@
 
 ###
 
-<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/kevinlayy_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -48,12 +52,20 @@
 
 ###
 
-<!-- <br clear="both"> -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevinpjplay.kevinpjplay&"  />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+###
+
+<img align="right" height="138" src="https://i.imgflip.com/7bu4tf.png"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31obgis2mly7pmpddpnh6mlecme4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31obgis2mly7pmpddpnh6mlecme4&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
